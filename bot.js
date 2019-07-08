@@ -11,7 +11,7 @@ client.on('ready', function(){
     type: 1,
      url: 'https://www.twitch.tv/itsfakehehe',
     name: 'I`m ALWAYS SAD...',
-    application_id: '595981556963737611',
+    application_id: '597714548157448192',
      assets: {
          large_image:   `${s[Math.floor(Math.random() * s.length)]}`,
   
